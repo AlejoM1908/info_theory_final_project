@@ -3,3 +3,10 @@ venv/
 
 # VSCode related
 .vscode/
+
+# images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
